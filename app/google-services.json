@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724318786888",
+    "project_id": "quotum-7d249",
+    "storage_bucket": "quotum-7d249.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724318786888:android:fcbad694633e549c060f7d",
+        "android_client_info": {
+          "package_name": "com.quotum.quotum.quotum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724318786888-thie6ih81n06mfknmqd5dobigqo0ekt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRRypfF7JE0TlrkbXKweGdNpJWkBBICQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724318786888-thie6ih81n06mfknmqd5dobigqo0ekt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
